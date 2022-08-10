@@ -1,2 +1,2 @@
-print("hii")
-print("sss")
+print("kaanth")
+print("saran")
